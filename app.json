@@ -27,9 +27,9 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923259855436)",
+      "description": "Owner WhatsApp number without + (Default: 923024927789)",
       "required": false,
-      "value": "923259855436"
+      "value": "923024927789"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: BAGGA MD)",
